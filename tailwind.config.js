@@ -18,7 +18,7 @@ module.exports = {
         880:"880px",
         508:"508px",
       },
-      width:{
+       height:{
         80:"80px",
         150:"150px",
        
@@ -52,7 +52,10 @@ module.exports = {
         headingColor:"#2e2e2e",
         textColor:"#515151",
         cartNumBg:"#e80013",
-        primary:"#f5f3f3"
+        primary:"#f5f3f3",
+        cardOverlay:"rgba(256,256,256,0.4)",
+        lighttextGray:'#9ca0ab'
+       
       }
 
     },
